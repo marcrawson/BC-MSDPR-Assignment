@@ -1,10 +1,10 @@
-# BC-MSDPR-Assignment
-Ministry of Social Development and Poverty Reduction of British Columbia
+# MSDPR Acronym Search Engine
+Project for the Ministry of Social Development and Poverty Reduction of British Columbia.
 
 ### Description
 React application that allows users to search for existing acronyms and add new acronyms to a database.
 
-### Instructions
+### Install and Run Software
 1. Fork repository
 2. Ensure all files are in the same directory
 3. Double click index.html to open website
